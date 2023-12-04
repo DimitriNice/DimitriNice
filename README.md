@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dimitri Nice</h1>
 <h3 align="center">Passionate about web development, Symfony specialist. Let’s transform ideas into exceptional experiences together!</h3>
 
+📄 Approximately a year ago, I embarked on my transition into the role of a developer, specializing in back-end development with the PHP Symfony framework, through training provided by the O'Clock school. A step that I consider a natural progression in my professional journey.
+
+Guided by an inherent curiosity and a humble passion for computer science, web development unfolds before me as a domain rich in challenges and discoveries. I particularly enjoy analyzing the architecture of websites, placing a special emphasis on their robustness, security, as well as any database manipulations. My commitment to progression encourages me to pursue continuous learning.
+
+Additionally, I have a genuine interest in technologies such as Kubernetes, RabbitMQ, and Docker. This curiosity propels me towards a continuous process of updating my skills, with a focus on adapting to industry advancements while maintaining an accessible and pragmatic approach.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitrinice&label=Profile%20views&color=0e75b6&style=flat" alt="dimitrinice" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimitrinice" alt="dimitrinice" /></a> </p>
@@ -13,11 +20,7 @@
 
 - 📫 How to reach me **web.dimitri.nice@gmail.com**
 
-- 📄 Approximately a year ago, I embarked on my transition into the role of a developer, specializing in back-end development with the PHP Symfony framework, through training provided by the O'Clock school. A step that I consider a natural progression in my professional journey.
 
-Guided by an inherent curiosity and a humble passion for computer science, web development unfolds before me as a domain rich in challenges and discoveries. I particularly enjoy analyzing the architecture of websites, placing a special emphasis on their robustness, security, as well as any database manipulations. My commitment to progression encourages me to pursue continuous learning.
-
-Additionally, I have a genuine interest in technologies such as Kubernetes, RabbitMQ, and Docker. This curiosity propels me towards a continuous process of updating my skills, with a focus on adapting to industry advancements while maintaining an accessible and pragmatic approach.
 
 
 
