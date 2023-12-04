@@ -13,7 +13,17 @@
 
 - 📫 How to reach me **web.dimitri.nice@gmail.com**
 
-- 📄 Know about my experiences [Il y a approximativement un an, j'ai initié ma transition vers le métier de développeur, me spécialisant dans le back-end avec le framework PHP Symfony, au travers d'une formation dispensée par l'école O'Clock. Une démarche que je considère comme une étape naturelle dans mon parcours professionnel. Doté d'une inclination innée pour la compréhension des mécanismes informatiques, le développement web se présente à moi comme un domaine riche en défis et en découvertes. J'apprécie particulièrement analyser l'architecture des sites, mettant un accent particulier sur leur robustesse, leur sécurité, ainsi que sur toute manipulation de bases de données. Ma volonté de progression m'incite à suivre une formation continue. Par ailleurs, je porte un intérêt avéré pour des technologies émergentes telles que Kubernetes, RabbitMQ, et Docker. Cette curiosité me guide dans une démarche d'actualisation constante de mes compétences, dans un souci d'adaptation aux avancées du secteur, tout en conservant une approche accessible et pragmatique.](Il y a approximativement un an, j'ai initié ma transition vers le métier de développeur, me spécialisant dans le back-end avec le framework PHP Symfony, au travers d'une formation dispensée par l'école O'Clock. Une démarche que je considère comme une étape naturelle dans mon parcours professionnel. Doté d'une inclination innée pour la compréhension des mécanismes informatiques, le développement web se présente à moi comme un domaine riche en défis et en découvertes. J'apprécie particulièrement analyser l'architecture des sites, mettant un accent particulier sur leur robustesse, leur sécurité, ainsi que sur toute manipulation de bases de données. Ma volonté de progression m'incite à suivre une formation continue. Par ailleurs, je porte un intérêt avéré pour des technologies émergentes telles que Kubernetes, RabbitMQ, et Docker. Cette curiosité me guide dans une démarche d'actualisation constante de mes compétences, dans un souci d'adaptation aux avancées du secteur, tout en conservant une approche accessible et pragmatique.)
+- 📄 Approximately a year ago, I embarked on my transition into the role of a developer, specializing in back-end development with the PHP Symfony framework, through training provided by the O'Clock school. A step that I consider a natural progression in my professional journey.
+
+Guided by an inherent curiosity and a humble passion for computer science, web development unfolds before me as a domain rich in challenges and discoveries. I particularly enjoy analyzing the architecture of websites, placing a special emphasis on their robustness, security, as well as any database manipulations. My commitment to progression encourages me to pursue continuous learning.
+
+Additionally, I have a genuine interest in technologies such as Kubernetes, RabbitMQ, and Docker. This curiosity propels me towards a continuous process of updating my skills, with a focus on adapting to industry advancements while maintaining an accessible and pragmatic approach.
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
